@@ -12,6 +12,7 @@ namespace DesignPatterns.Nehavioral.State
         public Context(State state)
         {
             _state = state;
+
         }
         /// <summary>
         /// it uses To transition between states
