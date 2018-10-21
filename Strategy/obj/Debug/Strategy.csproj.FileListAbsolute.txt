@@ -1,0 +1,5 @@
+C:\Users\p.gilani\source\repos\Strategy\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\p.gilani\source\repos\Strategy\Strategy\bin\Debug\Strategy.dll
+C:\Users\p.gilani\source\repos\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Users\p.gilani\source\repos\Strategy\Strategy\obj\Debug\Strategy.dll
+C:\Users\p.gilani\source\repos\Strategy\Strategy\obj\Debug\Strategy.pdb

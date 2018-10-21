@@ -1,0 +1,5 @@
+C:\Users\p.gilani\source\repos\Strategy\State\bin\Debug\State.dll
+C:\Users\p.gilani\source\repos\Strategy\State\bin\Debug\State.pdb
+C:\Users\p.gilani\source\repos\Strategy\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\Users\p.gilani\source\repos\Strategy\State\obj\Debug\State.dll
+C:\Users\p.gilani\source\repos\Strategy\State\obj\Debug\State.pdb
